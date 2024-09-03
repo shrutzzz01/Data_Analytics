@@ -6,7 +6,6 @@ This repository contains data analysis for various medical datasets using Jupyte
 
 - [Breast Cancer Analysis](breast_cancer/breast_cancer.ipynb)
 - [Liver Cancer Analysis](liver_cancer/liver_cancer.ipynb)
-- [Brain Tumor Analysis](brain_tumor/brain_tumor.ipynb)
 
 ## Overview
 
@@ -20,9 +19,6 @@ The `breast_cancer/` folder contains:
 The `liver_cancer/` folder contains:
 - `liver_cancer.ipynb`: A Jupyter Notebook with the analysis of the liver cancer dataset.
 
-### Brain Tumor Analysis
-The `brain_tumor/` folder contains:
-- `brain_tumor.ipynb`: A Jupyter Notebook with the analysis of the brain tumor dataset.
 
 ## Getting Started
 
